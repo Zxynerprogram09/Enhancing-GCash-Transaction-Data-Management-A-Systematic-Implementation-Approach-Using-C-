@@ -35,4 +35,5 @@ The GCash Business Management System, with its seamless integration with a datab
 
 Collaborators:
 Marasigan Xyzon Ezekiel R. - GitHub Account: Zxynerprogram09
+
 Carandang Angelica D. aica
