@@ -34,6 +34,7 @@ Conclusion:
 The GCash Business Management System, with its seamless integration with a database management system, provides a robust platform for secure and efficient financial transactions. Leveraging C#'s database connectivity, the system ensures smooth interaction with the database while offering users a straightforward interface for managing transactions. This documentation highlights key functionalities, emphasizing the system's ability to synchronize transactional data with the connected database, enhancing reliability, and facilitating efficient data management.
 
 Collaborators:
+
 Marasigan Xyzon Ezekiel R. - GitHub Account: Zxynerprogram09
 
 Carandang Angelica D. aica
