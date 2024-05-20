@@ -1,6 +1,8 @@
 # Enhancing-GCash-Transaction-Data-Management-A-Systematic-Implementation-Approach-Using-C-
 
 Introduction
+
+
 The GCash Business Management System is a C#-based tool designed to streamline financial transactions. It offers a user-friendly interface for cash in or out operations, mobile number management, transaction amounts, payment fees, dates, and reference numbers. A key feature is its seamless integration with a robust database management system, allowing secure and efficient transaction handling.
 
 Features
